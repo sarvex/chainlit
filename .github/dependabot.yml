@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "github>sarvex/renovate-configs:ts-app", 
+    "github>sarvex/renovate-configs:python"
+    ]
+}
